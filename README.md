@@ -1,2 +1,2 @@
-# UdemyC-Practice
+# UdemyC#.Practice
 practice C# scripts
