@@ -1,2 +1,2 @@
 # UdemyC-Practice
-practice C++ scripts
+practice C# scripts
